@@ -11,10 +11,10 @@ assignees: ''
 **I need** [function]
 **So that** [benefit]
 
-###Details and assumptions
+### Details and assumptions
 * [Document what you know]
 
-###Acceptence Criteria
+### Acceptence Criteria
 
 ```gherkin
 Given [ some context]
